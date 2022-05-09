@@ -99,8 +99,13 @@ Body {
  .teslacar{
    margin-top: 60px;
    border-radius: 8px;
-
+   margin-top: -230px; 
  } 
+
+#product {
+  border-radius: 50%;
+}
+
 
 h2{
 position: relative;
@@ -123,4 +128,4 @@ bottom:-75px;
     p{
      clear:right;
     }
-    
+ 
