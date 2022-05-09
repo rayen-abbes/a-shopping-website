@@ -59,9 +59,48 @@ Body {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
+    
   }
   
   .image1:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   }
   
+
+  .image2{
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    
+  }
+  
+  .image2:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
+  .image3{
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .image3:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  .image4{
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .image4:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
+  #images{
+      display: flex;
+      gap: 70px;
+  }
