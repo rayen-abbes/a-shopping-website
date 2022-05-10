@@ -13,7 +13,7 @@ function submit_login(){
 
 
     if (!error){
-        window.location = ./index2.html("index2.html")
+        window.location = "./index2.html"
     }
 }
 
